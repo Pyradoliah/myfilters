@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js
+https://www.i-dont-care-about-cookies.eu/abp/
+https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+https://filters.adtidy.org/extension/ublock/filters/1.txt 
